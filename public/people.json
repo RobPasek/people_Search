@@ -1,0 +1,352 @@
+[
+{
+"LASTNAME": "Salvatierra",
+"FIRSTNAME": "Zuzu",
+"DEPARTMENT": "Clinical Lab",
+"TITLE": "Laboratory Assistant",
+"EXTENSION": 19001
+},
+{
+"LASTNAME": "Cabrera",
+"FIRSTNAME": "Zurymizraim",
+"DEPARTMENT": "Revenue Cycle Support",
+"TITLE": "Payment Poster",
+"EXTENSION": 0
+},
+{
+"LASTNAME":"Aslami",
+"FIRSTNAME":"Zohal",
+"DEPARTMENT":"Pediatrics",
+"TITLE":"Clinical Nurse II 12 AWS",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Sediqi",
+"FIRSTNAME":"Zohal",
+"DEPARTMENT":"GI Clinic",
+"TITLE":"Medical Assistant",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Feldman",
+"FIRSTNAME":"Zoe",
+"DEPARTMENT":"Mental Health Unit",
+"TITLE":"Unit Assistant",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Ceja",
+"FIRSTNAME":"Zinthia",
+"DEPARTMENT":"5E Multispecialty Unit",
+"TITLE":"Clinical Associate 12 AWS",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Ceja",
+"FIRSTNAME":"Zinthia",
+"DEPARTMENT":"Prim Care Centralized Sched",
+"TITLE":"Scheduler",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Hernandez",
+"FIRSTNAME":"Zinthia",
+"DEPARTMENT":"Neurology Clinic",
+"TITLE":"Medical Assistant 8h",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Gonzales",
+"FIRSTNAME":"Zenicel",
+"DEPARTMENT":"Managed Care",
+"TITLE":"Credentialing Coordinator",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Chhoet",
+"FIRSTNAME":"Zarah",
+"DEPARTMENT":"CS Allergy Research",
+"TITLE":"Research Coordinator",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Noori",
+"FIRSTNAME":"Zara",
+"DEPARTMENT":"Pulmonary Clinic",
+"TITLE":"Medical Assistant PD",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Padilla",
+"FIRSTNAME":"Zane",
+"DEPARTMENT":"CHOC Foundation",
+"TITLE":"Assistant Director, Community Engagement",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Bashqoy",
+"FIRSTNAME":"Zaina",
+"DEPARTMENT":"Pharmacy",
+"TITLE":"Intern Pharmacist - PD",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Hashemi",
+"FIRSTNAME":"Zahra",
+"DEPARTMENT":"Clinical Lab",
+"TITLE":"Clinical Lab Scientist",
+"EXTENSION":19016
+},
+{
+"LASTNAME":"Rangwalla",
+"FIRSTNAME":"Zahra",
+"DEPARTMENT":"Food Services",
+"TITLE":"Food Service worker",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Hranuelli",
+"FIRSTNAME":"Zack",
+"DEPARTMENT":"Med/Surg/NSU - Neuroscience",
+"TITLE":"Clinical Nurse I 12AWS",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Drouault",
+"FIRSTNAME":"Zachary",
+"DEPARTMENT":"NICU - OC",
+"TITLE":"Clinical Nurse I NICU",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Abrams",
+"FIRSTNAME":"Zachariah L.",
+"DEPARTMENT":"CHOC Foundation",
+"TITLE":"Assistant Vice President",
+"EXTENSION":17676
+},
+{
+"LASTNAME":"Whalen",
+"FIRSTNAME":"Zach",
+"DEPARTMENT":"Respiratory Services",
+"TITLE":"Resp Care Pract PD 12AWS",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Chimedza",
+"FIRSTNAME":"Zaccheaus",
+"DEPARTMENT":"RN Residency - PICU",
+"TITLE":"Clinical Nurse II",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Calderon",
+"FIRSTNAME":"Yvonne",
+"DEPARTMENT":"Primary Care Services",
+"TITLE":"Sr Patient Service Rep",
+"EXTENSION":15125
+},
+{
+"LASTNAME":"Chase",
+"FIRSTNAME":"Yvonne",
+"DEPARTMENT":"Research",
+"TITLE":"Clinical Research Coord II",
+"EXTENSION":18810
+},
+{
+"LASTNAME":"Fraire",
+"FIRSTNAME":"Yvonne",
+"DEPARTMENT":"EDAC-Early Dev Assessment Clinc",
+"TITLE":"Department Assistant",
+"EXTENSION":18778
+},
+{
+"LASTNAME":"Quintanar",
+"FIRSTNAME":"Yvonne",
+"DEPARTMENT":"Business Office",
+"TITLE":"PFS Rep Recon",
+"EXTENSION":17893
+},
+{
+"LASTNAME":"Wehrmann",
+"FIRSTNAME":"Yvonne",
+"DEPARTMENT":"CHOC Foundation",
+"TITLE":"Director, Philanthropy",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Ziegler",
+"FIRSTNAME":"Yvonne",
+"DEPARTMENT":"Cardiovascular ICU",
+"TITLE":"Clinical Nurse IV 12 AWS",
+"EXTENSION":13299
+},
+{
+"LASTNAME":"Lohman",
+"FIRSTNAME":"Yvette",
+"DEPARTMENT":"PSOC Administration",
+"TITLE":"Health Info Nurse 8hr PD",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Lucero",
+"FIRSTNAME":"Yvette",
+"DEPARTMENT":"PICU",
+"TITLE":"Clinical Nurse II, Breaker",
+"EXTENSION":18530
+},
+{
+"LASTNAME":"Mayorga",
+"FIRSTNAME":"Yvette",
+"DEPARTMENT":"Primary Care Services",
+"TITLE":"Medical Assistant PD",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Morris",
+"FIRSTNAME":"Yvette",
+"DEPARTMENT":"CS Administration",
+"TITLE":"Human Resources Assistant",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Nunez",
+"FIRSTNAME":"Yvette",
+"DEPARTMENT":"Help Me Grow Program",
+"TITLE":"Family Svcs Care Coord - CSP",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Palmer",
+"FIRSTNAME":"Yvette",
+"DEPARTMENT":"Specialty Care Clinics",
+"TITLE":"Medical Assistant",
+"EXTENSION":13243
+},
+{
+"LASTNAME":"Rose",
+"FIRSTNAME":"Yvette",
+"DEPARTMENT":"Clinical Lab",
+"TITLE":"Laboratory Asst II",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Salgado",
+"FIRSTNAME":"Yvette",
+"DEPARTMENT":"Newport Beach Specialty Center",
+"TITLE":"Medical Assistant",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Satki",
+"FIRSTNAME":"Yvette",
+"DEPARTMENT":"Outpatient Access Center",
+"TITLE":"Financial Coordinator PD",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Moreno",
+"FIRSTNAME":"Yuritzi",
+"DEPARTMENT":"UCC",
+"TITLE":"Medical Assistant PD",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Lopez",
+"FIRSTNAME":"Yuliana",
+"DEPARTMENT":"Admitting",
+"TITLE":"Financial Counselor",
+"EXTENSION":14981
+},
+{
+"LASTNAME":"Komura",
+"FIRSTNAME":"Yuka",
+"DEPARTMENT":"Radiology Diagnostic",
+"TITLE":"Imaging Aide 10 AWS",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Armanyous",
+"FIRSTNAME":"Yostina",
+"DEPARTMENT":"CS Rheumatology",
+"TITLE":"Medical Scribe",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Ontiveros-Ramirez",
+"FIRSTNAME":"Yoryin",
+"DEPARTMENT":"UCC",
+"TITLE":"Medical Assistant",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Ramirez",
+"FIRSTNAME":"Yolanda",
+"DEPARTMENT":"Quality",
+"TITLE":"Quality Analyst",
+"EXTENSION":18893
+},
+{
+"LASTNAME":"Becerril-Arevalo",
+"FIRSTNAME":"Yolanda",
+"DEPARTMENT":"CHM - NICU",
+"TITLE":"Lactation Consultant PD",
+"EXTENSION":3873
+},
+{
+"LASTNAME":"Blasquez",
+"FIRSTNAME":"Yolanda",
+"DEPARTMENT":"Pulmonary Clinic",
+"TITLE":"LVN II 8hr",
+"EXTENSION":0
+},
+{
+"LASTNAME":"Carlos",
+"FIRSTNAME":"Yolanda",
+"DEPARTMENT":"Materials Managements",
+"TITLE":"OR/Cath Lab Buyer",
+"EXTENSION":13963
+},
+{
+"LASTNAME":"Chavez",
+"FIRSTNAME":"Yolanda",
+"DEPARTMENT":"Outpatient Access Center",
+"TITLE":"Financial Coordinator",
+"EXTENSION":13184
+},
+{
+"LASTNAME":"Clary",
+"FIRSTNAME":"Yolanda",
+"DEPARTMENT":"Med/Surg/NSU - Neuroscience",
+"TITLE":"Unit Assistant 8hr",
+"EXTENSION":18571
+},
+{
+"LASTNAME":"Hernandez",
+"FIRSTNAME":"Yolanda",
+"DEPARTMENT":"Admitting",
+"TITLE":"Manager, ED Admitting Services",
+"EXTENSION":19123
+},
+{
+"LASTNAME":"Serrato",
+"FIRSTNAME":"Yolanda",
+"DEPARTMENT":"Environmental Services (EVS)",
+"TITLE":"EVS Aide",
+"EXTENSION":18796
+},
+{
+"LASTNAME":"Sippell",
+"FIRSTNAME":"Yolanda",
+"DEPARTMENT":"CHOC Specialists Neurosurgery",
+"TITLE":"Administrative Assistant",
+"EXTENSION":17070
+},
+{
+"LASTNAME":"Soto",
+"FIRSTNAME":"Yolanda",
+"DEPARTMENT":"CS Oncology",
+"TITLE":"Patient Service Rep 8hr",
+"EXTENSION":12658
+}
+]
